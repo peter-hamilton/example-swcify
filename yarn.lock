@@ -331,7 +331,7 @@
 
 "@shopify/swcify@git+https://git@github.com/Shopify/swcify#online-store-web":
   version "0.1.12"
-  resolved "git+https://git@github.com/Shopify/swcify#6319d6de1324cca7fbe505f87a23b5b2cd03c28a"
+  resolved "git+https://git@github.com/Shopify/swcify#519b0c173c57a196de109af3028c770dbabee429"
   dependencies:
     "@jest/transform" "^27.2.1"
     "@node-rs/helper" "^1.2.1"
